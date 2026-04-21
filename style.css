@@ -289,6 +289,7 @@ background: var(--secondary-color);
     gap: 48px;
     align-items: flex-start;
     justify-content: space-between;
+    
 }
 
 .contact-section .contact-info-list .contact-info {
@@ -296,6 +297,7 @@ display: flex;
 gap: 20px;
 margin: 20px 0;
 align-items: center;
+max-width: 200px;
 }
 
 .contact-section .contact-info-list .contact-info i {
