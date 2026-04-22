@@ -297,7 +297,7 @@ display: flex;
 gap: 20px;
 margin: 20px 0;
 align-items: center;
-max-width: 200px;
+max-width: 100%;
 }
 
 .contact-section .contact-info-list .contact-info i {
@@ -496,5 +496,12 @@ border: 1px solid var(--medium-gray-color);
         gap: 20px;
     }
     }
+
+    @media (max-width: 480px) {
+  .contact-info {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
 
    
