@@ -1,9 +1,65 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
     <url>
         <loc>https://choicevinemontessori.com/</loc>
+
+        <!-- IMAGE ENTRIES -->
+
+        <image:image>
+            <image:loc>https://choicevinemontessori.com/images/school-badge.jpg</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://choicevinemontessori.com/images/swings2.jpeg</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://choicevinemontessori.com/images/swings1.jpeg</image:loc>
+        </image:image>
+
+         <image:image>
+            <image:loc>https://choicevinemontessori.com/images/imagee1.jpeg</image:loc>
+        </image:image>
+
+         <image:image>
+            <image:loc>https://choicevinemontessori.com/images/imagee2.jpeg</image:loc>
+        </image:image>
+
+         <image:image>
+            <image:loc>https://choicevinemontessori.com/images/imagee3.jpeg]</image:loc>
+        </image:image>
+
+         <image:image>
+            <image:loc>https://choicevinemontessori.com/images/imagee4.jpeg</image:loc>
+        </image:image>
+
+         <image:image>
+            <image:loc>https://choicevinemontessori.com/images/imagee5.jpeg</image:loc>
+        </image:image>
+
+
+        <!-- VIDEO ENTRIES -->
+
+       <!-- <video:video>
+            <video:thumbnail_loc>https://choicevinemontessori.com/images/VIDEO-THUMBNAIL-1.jpg</video:thumbnail_loc>
+            <video:title>ChoiceVine Montessori School Video</video:title>
+            <video:description>A video showcasing ChoiceVine Montessori School.</video:description>
+            <video:content_loc>https://choicevinemontessori.com/videos/VIDEO-1.mp4</video:content_loc>
+        </video:video>
+
+        <video:video>
+            <video:thumbnail_loc>https://choicevinemontessori.com/images/VIDEO-THUMBNAIL-2.jpg</video:thumbnail_loc>
+            <video:title>Life at ChoiceVine Montessori</video:title>
+            <video:description>A look at activities and experiences at ChoiceVine Montessori.</video:description>
+            <video:content_loc>https://choicevinemontessori.com/videos/VIDEO-2.mp4</video:content_loc>
+         </video:video> -->
+
     </url>
 
 </urlset>
