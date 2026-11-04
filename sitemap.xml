@@ -27,13 +27,13 @@
             <image:loc>https://choicevinemontessori.com/images/imagee1.jpeg</image:loc>
         </image:image>
 
-         <image:image>
+         <!--<image:image>
             <image:loc>https://choicevinemontessori.com/images/imagee2.jpeg</image:loc>
         </image:image>
 
          <image:image>
             <image:loc>https://choicevinemontessori.com/images/imagee3.jpeg]</image:loc>
-        </image:image>
+         </image:image> -->
 
          <image:image>
             <image:loc>https://choicevinemontessori.com/images/imagee4.jpeg</image:loc>
